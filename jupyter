@@ -1,0 +1,28 @@
+def tam_sayiya_cevir():
+     girdi = input("bir ondalik sayi giriniz:")
+
+    print("yuvarlama isleminin sonucu: {}".format(round(float(girdi))))
+tam_sayiya_cevir():
+def tam_sayiya_cevir():
+     girdi = input("bir ondalik sayi giriniz:")
+
+   #print("yuvarlama isleminin sonucu: {}".format(round(float(girdi))))
+
+try:
+    girdi = float(girdi)
+    print("yuvarlama isleminin sonucu: {}".format(round(float(girdi))
+except:
+    print("{} cevrisi ondalik tipe cevrilmiyor".format(girdi))
+def tam_sayiya_cevir():
+     girdi = input("bir ondalik sayi giriniz:")
+
+try:
+    girdi = float(girdi)
+    print("yuvarlama isleminin sonucu: {}".format(round(float(girdi))
+except:
+    print("{} cevrisi ondalik tipe cevrilmiyor".format(girdi))
+vatandas = {
+    'ad' : 'oguz',
+    'tc_no' : '123123'
+}
+    
